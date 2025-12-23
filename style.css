@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* Background Image */
-    background-image: url("background.jpeg");
+    background-image: url("Background.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -64,4 +64,5 @@ button {
 
 button:hover {
     background: #00c6fb;
+
 }
